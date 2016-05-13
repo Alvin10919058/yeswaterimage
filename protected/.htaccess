@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "protected"
+AuthUserFile "/home3/youngfbc/.htpasswds/public_html/yeswaterimage/protected/passwd"
+require valid-user
